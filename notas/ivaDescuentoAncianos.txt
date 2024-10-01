@@ -1,0 +1,4 @@
+crear un software que registre 3 compras, gafas, sombrero, reloj estas 3 compras tendran un iva de 2 % el iva aplica
+los precios de los productos deben ser ingresados por el comprador(usuario)
+para cada producto por separado
+pero si el comprador tiene 40 años o más tendra un 20 porciento de descuento en el precio total de la compra 

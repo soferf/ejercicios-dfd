@@ -1,0 +1,8 @@
+requerir al usuario su salario de todo el mes "30 dias " el trabajador falto algunos dias al trabajo y se los descontaron, esta sancion 
+economica , esta sancion ademas de descontar los dias tiene un cargo extra que descontara 1% al salario total del trabajador pero esto aplica sobre el salario completo, es decir 
+si el trabajador gana 1,200,000
+y falla dos dias osea 80,000
+primero se resta el porciento de cargo de sancion en este caso 
+24,000
+y luego se resta los dos dias de fallas osea 80,000
+el software requiere el salario minimo, los dias que fallo.
